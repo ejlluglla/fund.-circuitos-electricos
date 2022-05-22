@@ -1,32 +1,58 @@
 # fund.-circuitos-electricos
 Informe de la tarea
+
 Nombre: Esteban Lluglla
+
 NRC:7322
+
 1.	OBJETIVOS
+
 OBJETIVO GENERAL
+
 Comprender las unidades de medición, la corriente, el voltaje y la resistencia, con el fin de conocer su funcionamiento y aplicaciones, mediante la realización de mapas y ejercicios.
+
  OBJETIVOS ESPECFICOS
+ 
 •	Analizar cuidadosamente los temas a investigar, para poder entender los temas de una forma clara, mediante el libro de principios de circuitos
+
 •	Resolver ejercicios referentes al tema, para saber si hemos comprendido el tema, a través de problemas propuestos.
 	EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+	
 Utilizaremos la notación científica para expresar números muy grandes o muy pequeños, por la potencia diez y el exponente determinara la posición de la coma si es negativo la coma recorrerá la cantidad de espacios que nos diga el exponente hacia la izquierda y si es postiva se ira hacia la derecha, además utilizaremos notación de ingeniería, es lo mismo solo que los exponentes deben ser múltiplos de 3.
+
 RESOLUCION DE EJERCICIOS DEL CAP.I
+
 NOTACION CIENTIFICA
+
 	Exprese cada número fraccionario en notación científica:
+	
 	A) 1/500
+	
 2x10^(-3)
+
 	B) 1/2000
+	
 5x10^(-4)
+
 	C) 1/5,000,000
+	
 2x10^(-7)
 	Exprese cada uno de los números siguientes en notación científica:
+	
 A) 0.0002= 2x10^(-4)
+
 B) 0.6 = 6x10^(-1)
+
 C) 7.8x10^(-2)= 78x10^(-3)
+
        3) Exprese cada uno de los números siguientes como un número decimal regular:
+       
 A) 2x10^5= 200000
+
 B) 5.4x10^(-9)= 0.0000000054 
+
 C) 1.0x10^1= 10
+
        4) Exprese cada número de los siguientes como un número decimal regular:
 A) 4.5x10^(-6)= 0.0000045
 B) 8x10^(-9)= 0.000000008
